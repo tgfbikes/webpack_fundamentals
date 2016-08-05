@@ -44,7 +44,7 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	document.write('Welcome to doing Webpack things');
+	document.write('Welcome doing Webpack things and stuff');
 
 	console.log('app loaded');
 

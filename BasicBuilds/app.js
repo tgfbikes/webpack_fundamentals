@@ -1,3 +1,5 @@
-document.write('Welcome to doing Webpack things');
+require('./login.js');
+
+document.write('Welcome to Webpack things and stuff');
 
 console.log('app loaded');
