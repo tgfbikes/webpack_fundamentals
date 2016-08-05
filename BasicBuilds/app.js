@@ -1,4 +1,4 @@
-require('./login.js');
+require('./login');
 
 document.write('Welcome to Webpack things and stuff');
 
