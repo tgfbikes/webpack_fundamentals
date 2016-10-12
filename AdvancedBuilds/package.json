@@ -1,5 +1,5 @@
 {
-  "name": "basic-builds",
+  "name": "advanced-builds",
   "version": "1.0.0",
   "description": "Learning webpack basic builds",
   "main": "app.js",
